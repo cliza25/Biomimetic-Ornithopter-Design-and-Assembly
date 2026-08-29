@@ -6,8 +6,7 @@ This repository contains the CAD model and motion animation for a bio-inspired f
 
 ##  Mechanism Animation
 
-![Ornithopter Flapping Animation](Ornithopter.gif)
-
+Ornithopter-ezgif.com-video-to-gif-converter.gif
 ---
 
 ##  Files Included
