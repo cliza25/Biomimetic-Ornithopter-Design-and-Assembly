@@ -1,6 +1,5 @@
 # Biomimetic Ornithopter Design and Assembly
 ![Ornithopter Animation](Ornithopter.gif)
-
 This repository contains the 3D CAD model and assembly files for a bio-inspired flapping-wing aerial vehicle (ornithopter), designed, assembled, and animated in Autodesk Fusion 360.
 
 ---
