@@ -10,7 +10,7 @@ This repository contains the CAD model and motion animation for a bio-inspired f
 
 ##  Files Included
 
-* **`ornithopter_1.step`** - Full 3D assembly STEP file for CAD import.
+* **`ornithopter_1.step`** - Full 3D assembly .stl file for CAD import.
 * **`Ornithopter.gif`** - Animated motion study export.
 
 ---
