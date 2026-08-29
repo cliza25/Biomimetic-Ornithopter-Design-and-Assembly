@@ -1,21 +1,26 @@
 # Biomimetic Ornithopter Design and Assembly
-![Ornithopter Animation](Ornithopter.gif)
-This repository contains the 3D CAD model and assembly files for a bio-inspired flapping-wing aerial vehicle (ornithopter), designed, assembled, and animated in Autodesk Fusion 360.
+
+This repository contains the CAD model and motion animation for a bio-inspired flapping-wing aerial vehicle (ornithopter), designed and assembled in Autodesk Fusion 360.
 
 ---
 
-##  Overview
+##  Mechanism Animation
 
-This project focuses on the 3D modeling, joint assembly, and motion animation of a biomimetic flapping mechanism. 
-
-* **CAD Software:** Autodesk Fusion 360
-* **Primary Asset:** CAD model export (`.step`)
-* **Scope:** 3D Design, Joint & Component Assembly, Motion Study / Animation
+![Ornithopter Flapping Animation](Ornithopter.gif)
 
 ---
 
-##  Repository Structure
+##  Files Included
 
-```text
-├── ornithopter_1.step    # Main 3D STEP assembly file
-└── README.md             # Project documentation
+* **`ornithopter_1.step`** - Full 3D assembly STEP file for CAD import.
+* **`Ornithopter.gif`** - Animated motion study export.
+
+---
+
+##  How to View the Model
+
+1. Download **`ornithopter_1.step`** from this repository.
+2. Import the file into **Fusion 360**, **SolidWorks**, or [Autodesk Viewer](https://viewer.autodesk.com/).
+
+---
+
